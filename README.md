@@ -1,4 +1,4 @@
-# 🔒 ThreatWave — SIH26145
+# 🔒 ThreatWavee — SIH26145
 
 **AI-Powered Cyber Threat Detection for Unidirectional IP Traffic**
 
@@ -590,7 +590,7 @@ CURRENT IMPLEMENTATION                 NEAR-TERM REFINEMENTS                 FUT
 
 ## 👥 Team & Submission Information
 
-* **Team Name:** THREATWAVE
+* **Team Name:** THREATWAVEE
 * **Event:** Smart India Hackathon (SIH) 2026
 * **Problem Statement ID:** 26145
 * **Category:** Software
