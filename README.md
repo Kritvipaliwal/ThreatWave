@@ -1,4 +1,4 @@
-# 🔒 ZERO-DAY — SIH26145
+# 🔒 Threatwave — SIH26145
 
 **AI-Based Detection of Cyber Threats in Unidirectional IP Traffic**
 
@@ -206,4 +206,4 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
-**Team ZERO DAY** | SIH 2026 | Problem Statement 26145
+**Team THREATWAVE** | SIH 2026 | Problem Statement 26145
