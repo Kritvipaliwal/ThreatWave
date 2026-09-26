@@ -58,6 +58,26 @@ Critical-infrastructure operators use **hardware data diodes** to copy traffic i
 | f | **Reconnaissance/Port Scan** | Fan-out across ports/hosts | Burst + direction channels |
 | g | **Data Exfiltration** | Asymmetric volume + byte ratio | Bytes channel |
 
+## 📸 Screenshots
+
+ThreatWave includes three integrated web interfaces for end-to-end cyber defense and simulation: the primary **SOC Analyst Intelligence Dashboard**, the **ApexGov Enterprise Banking & GovCloud Mock Target Portal** (demonstrating passive data diode observation), and the **Red Team Ops Security Lab** (cyber attack generator).
+
+<p align="center">
+  <img src="screenshots/threatwave-dashboard.png" width="48%" alt="ThreatWave SOC Dashboard">
+  <img src="screenshots/threatwave-demo.png" width="48%" alt="ApexGov Enterprise Banking & GovCloud Gateway">
+</p>
+<p align="center">
+  <em><b>Left:</b> ThreatWave SOC Analyst Dashboard (React/TypeScript) — Real-time threat radar, event throughput metrics, and dual-layer detector telemetry.<br>
+  <b>Right:</b> ApexGov Mock Target Demo Portal — Enterprise banking enclave with real web vulnerabilities and passive diode flow tap.</em>
+</p>
+
+<p align="center">
+  <img src="screenshots/threatwave-redteam.png" width="80%" alt="Red Team Ops Security Lab">
+</p>
+<p align="center">
+  <em><b>Red Team Ops Security Lab</b> — Interactive cyber attack console for generating volumetric DDoS, C2 beacons, DGA domains, DNS tunneling, and exfiltration scenarios.</em>
+</p>
+
 ## 🚀 Quick Start
 
 ```bash
@@ -108,6 +128,7 @@ ZERO-DAY/
 ├── data/fixtures/         # Demo JSONL scenarios
 ├── models/                # Trained NJ-ODE checkpoints
 ├── frontend/              # React/TypeScript dashboard
+├── screenshots/           # UI dashboard screenshots
 ├── tools/                 # Fixture generators
 └── results/               # Benchmark + evaluation results
 ```
